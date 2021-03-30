@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "draw.h": "c",
+        "gamestage.h": "c",
+        "sound.h": "c",
+        "common.h": "c",
+        "stdio.h": "c",
+        "init.h": "c",
+        "utility.h": "c",
+        "main.h": "c",
+        "text.h": "c",
+        "highscore.h": "c",
+        "sdl_mixer.h": "c",
+        "title.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "defs.h": "c"
+    }
+}
